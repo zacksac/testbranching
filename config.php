@@ -18,7 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_general_ci',
 );
 
-$CFG->wwwroot   = 'https://staging.flagshiplms.com';
+$CFG->wwwroot   = 'https://demo.flagshiplms.com';
 $CFG->dataroot  = '/home/jamie/apps/jamie-staging/moodledata';
 $CFG->admin     = 'admin';
 $CFG->disableupdatenotifications = true;
